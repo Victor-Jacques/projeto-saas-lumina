@@ -18,7 +18,7 @@ Mais do que um produto para o usuário final, a plataforma foi concebida sob a f
 * Auditoria estruturada para monitoramento de eventos de segurança.
 
 ## 🛠️ Tecnologias e Segurança
-> A documentação detalhada das decisões arquiteturais, stack tecnológica (Java 21, Spring, Angular, PostgreSQL) e controles de mitigação de vulnerabilidades pode ser encontrada no arquivo [ARCHITECTURE.md](link-para-o-arquivo-futuro).
+> A documentação detalhada das decisões arquiteturais, stack tecnológica e controles de mitigação de vulnerabilidades pode ser encontrada no arquivo **TECHNICAL.md**
 
 ## ⚙️ Como Executar Localmente
 *(Instruções futuras para deploy local via Docker Compose, variáveis de ambiente e inicialização da API e Banco de Dados).*
