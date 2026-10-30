@@ -22,3 +22,10 @@ Mais do que um produto para o usuário final, a plataforma foi concebida sob a f
 
 ## ⚙️ Como Executar Localmente
 *(Instruções futuras para deploy local via Docker Compose, variáveis de ambiente e inicialização da API e Banco de Dados).*
+## Estrutura do repositorio
+
+- Backend (Spring Boot/Maven) na raiz: `src/main/java/com/lumina/team`.
+- `frontend/`: Angular (frontend).
+- `compose.yaml`: servicos de infraestrutura (PostgreSQL).
+- `src/main/resources/db/migration`: migracoes de banco.
+
